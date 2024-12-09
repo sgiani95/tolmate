@@ -1,5 +1,5 @@
 
-from tmate import configure_behavior, tolmate
+from tolmate import configure_behavior, tolmate
 
 # Main program
 def celsius_to_kelvin(celsius):
