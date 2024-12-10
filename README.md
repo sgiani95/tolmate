@@ -13,6 +13,9 @@
   - **Tol 1**: Normal range
   - **Tol 2**: Soft warning
   - **Tol 3**: Hard warning
+
+![Tolerances](https://raw.githubusercontent.com/sgiani95/tolmate/refs/heads/main/Bild5.png "Tolerances")
+
 - **Interactive Popups**: Display user-friendly messages with color-coded warnings and action buttons.
 - **Dynamic Value Rechecking**: Modify values directly from the popup for re-evaluation.
 - **Behavior Configuration**: Enable or disable popups and console messages globally.
